@@ -1,4 +1,6 @@
 # karma-postcss-preprocessor
+<img src=giticon.png title=karma-postcss-preprocessor align=right height=95>
+
 Karma preprocessor to compile CSS on the fly with PostCSS
 
 ## Install
