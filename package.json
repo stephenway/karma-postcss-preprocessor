@@ -1,0 +1,30 @@
+{
+  "name": "karma-postcss-preprocessor",
+  "version": "1.0.0",
+  "description": "Karma preprocessor to compile CSS on the fly with PostCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenway/karma-postcss-preprocessor.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+    "postcss",
+    "css",
+    "css-preprocessor"
+  ],
+  "author": "Stephen Way <stephen@stephenway.net> (http://stephenway.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephenway/karma-postcss-preprocessor/issues"
+  },
+  "homepage": "https://github.com/stephenway/karma-postcss-preprocessor#readme",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "postcss": "^5.0.13"
+  }
+}
